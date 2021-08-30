@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter application.
+A chatting app, where people can create their account and can chat with someone globally.
 
 ## Getting Started
 
